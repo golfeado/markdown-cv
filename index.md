@@ -1,91 +1,57 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV de Leonardo Soteldo
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Leonardo Soteldo Ruiz
+Caracas, Venezuela | V-23.682.839 | +58 412 637 77 86 | leonardosoteldo@gmail.com
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Profesional con experiencia en gestión de operaciones inventario y desarrollo de
+herramientas para la gestión y análisis. Mi trayectoria incluye la
+implementación de soluciones en Excel y Python para el control de procesos, la
+planificación estratégica en diversas organizaciones.
 
+## Habilidades
 
-## Currently
+- Manejo de Microsoft Excel y la suite Microsoft Office.
 
-Standing on the shoulders of giants
+- Conocimientos de programación básicos en Python y SQL.
 
-### Specialized in
+- Dominio avanzado del inglés (C2 - prueba EF SET).
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Experiencia
 
+#### Desarrollo de productos y gestión de inventario (`enero 2018 - junio 2019`)
+     en Alimentos Doña Rosa
 
-### Research interests
+- Desarrollé y utilicé herramientas en Excel para la estimación y control de
+  inventario, estructuras de costos y volúmenes de producción.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Participé en el desarrollo de productos alimenticios y en la formación para su
+  elaboración.
 
+#### Investigador y redactor (`junio 2019 - junio 2020`) en Fundación CERLAS
+     (Centro de Reflexión para la Acción Social)
 
-## Education
+- Planifiqué y coordiné proyectos de investigación socioeconómica
 
-`1654-1660`
-__The King's School, Grantham.__
+- Desarrollé herramientas de software en Python para automatizar la
+  sistematización de información.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+#### Jefe de cocina y desarrollo de productos (`junio 2020 - 2022`) en Pan a Casa
+     (pequeña empresa panificadora)
 
-- Sizar
+- Diseñé y apliqué herramientas en Excel para el cálculo de inventario,
+  optimización de estructuras de costos y planificación de la producción.
 
-`1667 - death`
-__Trinity College, Cambridge__
+#### Copywriting y redacción de contenido (`2022 - actualidad`) como Freelance
 
-- Fellow
+### Formación
 
+- Estudiante de Historia en la Universidad Central de Venezuela (`2013 - tesista`)
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+<!-- ### Footer Last updated: Jun 2025 -->
 
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
